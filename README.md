@@ -25,16 +25,17 @@
 
 
 [![Snake](https://profile-readme-generator.com/assets/snake.svg)]
-## 🌐 Socials:
+## 🌐 Social:
 
-[![Telegram](https://img.shields.io/badge/Telegram-%231DA1F2.svg?logo=Telegram&logoColor=white)](https://@usoms_712.t.me/)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/usoma-akmaljonov-88735630a/)  [![LeetCode](https://img.shields.io/badge/LeetCode-%231DA1F2.svg?logo=leetcode&logoColor=ffdd54)](https://leetcode.com/u/akmaljonov_usoma) 
+[![Telegram](https://img.shields.io/badge/Telegram-%231DA1F2.svg?logo=Telegram&logoColor=white)](https://@usoms_712.t.me/) 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+
+    
+## 📲 My Social Networks:</h3>
+    
 <a href="https://www.linkedin.com/in/usoma-akmaljonov-88735630a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="usoma-akmaljonov-88735630a" height="30" width="40" /></a>
 <a href="https://www.instagram.com/_akmaljonoff_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_akmaljonoff_" height="30" width="40" /></a>
 <a href="https://leetcode.com/u/akmaljonov_usoma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="akmaljonov_usoma" height="30" width="40" /></a>
-
 
 
 </br><h1 tabindex="-1" align="left">💻 Tech Stack:</h1>
