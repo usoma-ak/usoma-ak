@@ -1,7 +1,7 @@
 [![MasterHead](https://media1.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif?cid=6c09b952gmnuarq1g4ln3vsgc0347op3yaay65ha1tvqqale&ep=v1_gifs_search&rid=giphy.gif&ct=g)](https://rishavchanda.io)
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Usoma+Akhmaljonov!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Usoma+Akmaljonov!;" />
 </h1>
 
 <h3 align="center">A passionate python developer from Uzbekistan🇺🇿</h3>
