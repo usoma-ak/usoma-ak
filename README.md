@@ -13,7 +13,7 @@
 
 
 
-- 🔭 I’m currently learning on Data Base
+- 🔭 I’m currently learning on Django
 
 
 
