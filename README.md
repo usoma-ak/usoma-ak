@@ -32,6 +32,8 @@
 <a href="https://www.linkedin.com/in/usoma-akmaljonov-88735630a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="usoma-akmaljonov-88735630a" height="30" width="40" /></a>
 <a href="https://www.instagram.com/_akmaljonoff_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_akmaljonoff_" height="30" width="40" /></a>
 <a href="https://leetcode.com/u/akmaljonov_usoma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="akmaljonov_usoma" height="30" width="40" /></a>
+<a href="https://www.facebook.com/usomaak?id=100081788845272" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/usomaak?id=100081788845272" height="30" width="40" /></a>
+
 
 
 </br><h1 tabindex="-1" align="left">💻 Tech Stack:</h1>
