@@ -23,7 +23,7 @@
 [![Snake](https://profile-readme-generator.com/assets/snake.svg)]
 ## 🌐 Social:
 
-[![Telegram](https://img.shields.io/badge/Telegram-%231DA1F2.svg?logo=Telegram&logoColor=white)](https://@usoms_712.t.me/) 
+[![Telegram](https://img.shields.io/badge/Telegram-%231DA1F2.svg?logo=Telegram&logoColor=white)](https://@usoma_707.t.me/) 
 
 
     
